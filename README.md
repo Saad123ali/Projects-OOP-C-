@@ -20,5 +20,5 @@ To compile and run these projects:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Saad123ali/(https://github.com/Saad123ali/My-Project-in-OOP-in-C-.git).git
-   cd (https://github.com/Saad123ali/My-Project-in-OOP-in-C-.git)
+   git clone https://github.com/Saad123ali/https://github.com/Saad123ali/My-Project-in-OOP-in-C-.git.git
+   cd https://github.com/Saad123ali/My-Project-in-OOP-in-C-.git
